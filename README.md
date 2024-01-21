@@ -1,3 +1,3 @@
 # projet_ihm
 
-![1](/1.png)
+![1](/1_small.png)
